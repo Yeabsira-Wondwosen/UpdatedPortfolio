@@ -134,8 +134,9 @@ export default function Hero() {
             <div className="relative w-72 h-72 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-violet-600/50 shadow-2xl hover:shadow-violet-600/50 transition-all duration-300 hover:scale-105">
               <div className="w-full h-full bg-gradient-to-br from-violet-600/20 to-cyan-500/20 flex items-center justify-center">
                 <div className="w-full h-full bg-gradient-to-br from-violet-600/20 to-cyan-500/20 flex items-center justify-center">
-                <img src="src/assets/yeabsira.png" alt="Profile" className="w-full h-full object-cover" />
+                <img src="/yeabsira.png" alt="Profile" className="w-full h-full object-cover" />
               </div>
+
               </div>
             </div>
           </div>
